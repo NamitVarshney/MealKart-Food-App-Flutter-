@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606089158366",
+    "project_id": "mealkart-12b57",
+    "storage_bucket": "mealkart-12b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606089158366:android:4e3d64ae6519bef43cec4f",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606089158366-st12aeg5c1b3ns0m368lpvk2accaljls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMzFwzUfR8LYROWEbrHD6w7cfLD9OWbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606089158366-st12aeg5c1b3ns0m368lpvk2accaljls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
