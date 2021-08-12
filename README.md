@@ -42,5 +42,26 @@ There would also be an increased number of mobile app development companies in d
 ![](https://github.com/NamitVarshney/MealKart-Food-App-Flutter-/blob/main/App%20UI/Customer-Profile.png)
 
 
+# Future Improvements
+
+Food delivery market in India worth over 12.5 billion, Online food delivery is contributing more than 7% to this market. More than 50,000 restaurants in India provide home delivery, indicating a very high potential and untapped market in the online food delivery space. And this is the very reason I had chosen this use-case for my mobile application.
+
+## Multi Layer Security
+
+*"If we use several layers of security, we can better protect our app."*
+
+Two-factor authentications, for example, require a user name and password combination as well as a code sent to a user’s email or an SMS sent to a mobile number. Biometric data is also increasingly being used to improve security.
+
+## BackUp Data
+
+*"The more downtime you have, the more the costs add up."*
+
+If we employ an automatic backup service, our data is backed up automatically, even if we forget to do it manually. If our files are automatically backed up, we can restore operations speedily if our database is breached.
+
+## Security Payment Gateway
+
+*"If we have credit card numbers stored on our database, it is a liability for us."*
+
+Data going from the browser of the user to the server of the payment processing is encrypted if we have installed an SSL certificate. It prevents hackers from stealing payment information if we accept payments through a third-party processor or gateway.
 
 
